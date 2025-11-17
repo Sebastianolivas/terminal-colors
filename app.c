@@ -3,21 +3,21 @@
 
 int main(void) {
     
-    void clear_screen();
+    clear_screen();
     
-    void print_divider();
+    print_divider();
 
-    void set_text_color(Color GREEN);
+    set_text_color(GREEN);
     
     printf("System Status: ONLINE\n");
 
-    void set_text_color(Color RED);
+    set_text_color(RED);
     
     printf("Alert: Modular compilation in progress...\n");
 
-    void reset_text_color();
+    reset_text_color();
     
-    void print_divider();
+    print_divider();
 
     return 0;
 }
