@@ -1,7 +1,6 @@
 #ifndef TERM_UTILS_H
 #define TERM_UTILS_H
 
-// Enum for colors to make it easy for students
 typedef enum {
     RED,
     GREEN,
